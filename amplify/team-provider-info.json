@@ -10,6 +10,14 @@
       "StackName": "amplify-myportfolioaws-dev-cb201",
       "StackId": "arn:aws:cloudformation:eu-west-3:677276120378:stack/amplify-myportfolioaws-dev-cb201/db8202b0-75f6-11ef-ac68-0eae10b2d427",
       "AmplifyAppId": "d2l9wevkqnmvm5"
+    },
+    "categories": {
+      "hosting": {
+        "amplifyhosting": {
+          "appId": "d2l9wevkqnmvm5",
+          "type": "cicd"
+        }
+      }
     }
   }
 }
